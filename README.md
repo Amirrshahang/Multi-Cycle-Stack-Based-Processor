@@ -25,6 +25,6 @@ This processor utilizes a **single shared memory** for both instructions and dat
 - **Data Memory:** Lower section (indexes 7–10) is used to store data.
 
 ## DataPath Diagram
-![DataPath](src/DataPath.png)
+![DataPath](Src/DataPath.png)
 
 A test file is provided to initialize the memory with sample instructions and data, enabling verification of the processor’s correct functionality.
