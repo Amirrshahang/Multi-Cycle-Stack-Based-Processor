@@ -1,10 +1,6 @@
 # Multi-Cycle-Stack-Based-Processor
 
 This repository contains an implementation of a **stack-based processor** with a **multi-cycle architecture**.
-> **Note:** This project was developed as part of the **Computer Architecture** course at **University of Tehran, Spring 2025**.
- > **This project was created for the _Computer Architecture_ course at _University of Tehran_, Spring 2025.**
-
-
 
 ##  Supported Instructions
 The processor supports the following instructions:
@@ -32,3 +28,6 @@ This processor utilizes a **single shared memory** for both instructions and dat
 ![DataPath](Src/DataPath.png)
 
 A test file is provided to initialize the memory with sample instructions and data, enabling verification of the processor’s correct functionality.
+
+> **Note:** This project was developed as part of the **Computer Architecture** course at **University of Tehran, S2025**.
+
