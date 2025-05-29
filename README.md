@@ -2,6 +2,8 @@
 
 This repository contains an implementation of a **stack-based processor** with a **multi-cycle architecture**.
 > **Note:** This project was developed as part of the **Computer Architecture** course at **University of Tehran, Spring 2025**.
+ > **This project was created for the _Computer Architecture_ course at _University of Tehran_, Spring 2025.**
+
 
 
 ##  Supported Instructions
